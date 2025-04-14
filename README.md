@@ -1,7 +1,5 @@
 # Artur Costa Barbuzano
 
-<!-- Cabeça !-->
-
 ## Sobre mim
 
 Olá, me chamo Artur, tenho 19 anos e sou estudante de Análise e Desenvolvimento de Sistemas da Fatec Rubens Lara. Desde de pequeno, sou apaixonado por tecnologia, gosto muito de desenhar e atualmente procuro adquirir novos conhecimentos de front end e UX Design.
@@ -20,26 +18,12 @@ Olá, me chamo Artur, tenho 19 anos e sou estudante de Análise e Desenvolviment
 - Português nativo/fluente.
 - Inglês intermediário (B1).
 
-## Contato
-
-Email: arturbarbuzano@gmail.com
-
 ## Formação
 
 - Cursando Ensino Superior de Tecnologia em Análise e Desenvolvimento de Sistemas na Fatec Baixada Santista (2024-2026).
 - Formado em Técnico de Eletrônica na Etec Aristóteles Ferreira (2022-2023).
 - Formado no Ensino Médio pelo Colégio Novo Tempo (2021-2023).
 
+## Contato
 
-<!-->
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Email: arturbarbuzano@gmail.com
