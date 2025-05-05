@@ -6,7 +6,7 @@ Olá, me chamo Artur, tenho 19 anos e sou estudante de Análise e Desenvolviment
 
 ## Competências 🎯
 
-- Linguagens de Programação: C, Java, HTML.
+- Linguagens: C, HTML.
 - Softwares de desenvolvimento: Visual Studio Code, Intelij, CodeBlocks, Git e Github.
 - Ferramentas Criativas: Adobe Photoshop, Adobe Premiere Pro, Canva e Figma.
 - Domínio de Word, Excel e Powerpoint.
