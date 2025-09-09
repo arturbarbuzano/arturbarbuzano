@@ -2,7 +2,7 @@
 
 ## Sobre mim 🎨
 
-Olá, me chamo Artur, tenho 19 anos e sou estudante de Análise e Desenvolvimento de Sistemas da Fatec Rubens Lara. Desde de pequeno, sou apaixonado por tecnologia, gosto muito de desenhar e atualmente procuro adquirir novos conhecimentos de front end e UX Design.
+Olá, me chamo Artur, tenho 20 anos e sou estudante de Análise e Desenvolvimento de Sistemas da Fatec Rubens Lara. Desde de pequeno, sou apaixonado por tecnologia, gosto muito de desenhar e atualmente procuro adquirir novos conhecimentos de front end e UX Design.
 
 ## Tecnologias 💻
 
