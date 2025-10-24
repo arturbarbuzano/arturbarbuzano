@@ -78,6 +78,7 @@ Olá, me chamo Artur, tenho 20 anos e sou estudante de Análise e Desenvolviment
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"
     width="40px"
     style="padding-right: 10px;" 
+    align=left
     alt="Premiere"
     title="Premiere"
 />
