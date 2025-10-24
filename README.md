@@ -6,10 +6,80 @@ Olá, me chamo Artur, tenho 20 anos e sou estudante de Análise e Desenvolviment
 
 ## Tecnologias 💻
 
-- Linguagens e ferramentas web: HTML, C, Java.
-- Softwares de desenvolvimento: Visual Studio Code, Intelij, CodeBlocks, Git e Github.
-- Ferramentas Criativas: Adobe Photoshop, Adobe Premiere Pro, Canva e Figma.
-- Domínio de Word, Excel e Powerpoint.
+<img 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"
+    width="40px"
+    style="padding-right: 10px; float: left; margin-right: 15px;
+    margin-bottom: 15px;" 
+    alt="HTML5"
+    title="HTML5"
+/>
+
+<img 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
+    width="40px"
+    style="padding-right: 10px; float: left; margin-right: 15px;
+    margin-bottom: 15px;" 
+    alt="CSS3"
+    title="CSS3"
+/>
+
+<img 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
+    width="40px"
+    style="padding-right: 10px; float: left; margin-right: 15px;
+    margin-bottom: 15px;" 
+    alt="Java"
+    title="Java"
+/>
+
+<img 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"
+    width="40px"
+    style="padding-right: 10px; float: left; margin-right: 15px;
+    margin-bottom: 15px;" 
+    alt="C"
+    title="C"
+/>
+
+<img 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
+    width="40px"
+    style="padding-right: 10px; float: left; margin-right: 15px;
+    margin-bottom: 15px;" 
+    alt="Git"
+    title="Git"
+/>
+
+<img 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg"
+    width="40px"
+    style="padding-right: 10px; float: left; margin-right: 15px;
+    margin-bottom: 15px;" 
+    alt="Photshop"
+    title="Photshop"
+/>
+
+<img 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/premierepro/premierepro-original.svg"
+    width="40px"
+    style="padding-right: 10px; float: left; margin-right: 15px;
+    margin-bottom: 15px;" 
+    alt="Premiere"
+    title="Premiere"
+/>
+
+<img 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"
+    width="40px"
+    style="padding-right: 10px; float: left; margin-right: 15px;
+    margin-bottom: 15px;" 
+    alt="Premiere"
+    title="Premiere"
+/>
+
+<br> 
+<br>
 
 ## Idiomas 🌎
 
