@@ -83,6 +83,9 @@ Olá, me chamo Artur, tenho 20 anos e sou estudante de Análise e Desenvolviment
     title="Premiere"
 />
 
+<br>
+<br>
+
 ## Idiomas 🌎
 
 - Português nativo/fluente.
