@@ -6,6 +6,11 @@ Olá, me chamo Artur, tenho 20 anos e sou estudante de Análise e Desenvolviment
 
 ## Tecnologias 💻
 
+<!--Linguagens e ferramentas web: HTML, C, Java.
+- Softwares de desenvolvimento: Visual Studio Code, Intelij, CodeBlocks, Git e Github.
+- Ferramentas Criativas: Adobe Photoshop, Adobe Premiere Pro, Canva e Figma.
+- Domínio de Word, Excel e Powerpoint.!-->
+
 <img 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"
     width="40px"
