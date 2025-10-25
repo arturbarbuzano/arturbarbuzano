@@ -15,7 +15,7 @@ Olá, me chamo Artur, tenho 20 anos e sou estudante de Análise e Desenvolviment
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"
     width="40px"
     style="padding-right: 10px;" 
-    align=left
+    align="left"
     alt="HTML5"
     title="HTML5"
 />
@@ -24,7 +24,7 @@ Olá, me chamo Artur, tenho 20 anos e sou estudante de Análise e Desenvolviment
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
     width="40px"
     style="padding-right: 10px;" 
-    align=left
+    align="left"
     alt="CSS3"
     title="CSS3"
 />
@@ -33,7 +33,7 @@ Olá, me chamo Artur, tenho 20 anos e sou estudante de Análise e Desenvolviment
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
     width="40px"
     style="padding-right: 10px;" 
-    align=left
+    align="left"
     alt="Java"
     title="Java"
 />
@@ -42,7 +42,7 @@ Olá, me chamo Artur, tenho 20 anos e sou estudante de Análise e Desenvolviment
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"
     width="40px"
     style="padding-right: 10px;" 
-    align=left
+    align="left"
     alt="C"
     title="C"
 />
@@ -51,7 +51,7 @@ Olá, me chamo Artur, tenho 20 anos e sou estudante de Análise e Desenvolviment
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
     width="40px"
     style="padding-right: 10px;" 
-    align=left
+    align="left"
     alt="Git"
     title="Git"
 />
@@ -60,29 +60,30 @@ Olá, me chamo Artur, tenho 20 anos e sou estudante de Análise e Desenvolviment
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg"
     width="40px"
     style="padding-right: 10px;" 
-    align=left
-    alt="Photshop"
-    title="Photshop"
+    align="left"
+    alt="Adobe Photoshop"
+    title="Adobe Photoshop"
 />
 
 <img 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/premierepro/premierepro-original.svg"
     width="40px"
     style="padding-right: 10px;" 
-    align=left
-    alt="Premiere"
-    title="Premiere"
+    align="left"
+    alt="Adobe Premiere"
+    title="Adobe Premiere"
 />
 
 <img 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"
     width="40px"
     style="padding-right: 10px;" 
-    align=left
-    alt="Premiere"
-    title="Premiere"
+    align="left"
+    alt="Figma"
+    title="Figma"
 />
 
+<br>
 <br>
 <br>
 
